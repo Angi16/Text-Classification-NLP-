@@ -1,0 +1,59 @@
+1. Stanford Theory
+
+https://nlp.stanford.edu/IR-book/html/htmledition/text-classification-and-naive-bayes-1.html
+
+2.Text classification and prediction using the Bag Of Words approach
+
+https://medium.freecodecamp.org/text-classification-and-prediction-using-bag-of-words-8aeb1396cded
+
+3.A Comprehensive Guide to Understand and Implement Text Classification in Python
+
+https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+
+4.FastText
+
+https://fasttext.cc/docs/en/unsupervised-tutorial.html
+
+5.Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.
+
+https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+
+https://github.com/javedsha/text-classification
+
+6.Multi-Class Text Classification with Scikit-Learn
+
+https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
+
+7.NLTK/ pythonprogramming
+
+https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
+
+8.Text Classification in Python
+
+https://www.python-course.eu/text_classification_python.php
+
+
+9.Working With Text Data¶/scikit learn
+
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
+10.Tutorial: Building a Text Classification System
+
+http://textblob.readthedocs.io/en/dev/classifiers.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
